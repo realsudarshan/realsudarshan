@@ -54,8 +54,7 @@
 #Daily.dev profile:
 <a href="https://app.daily.dev/sudarshan60"><img src="https://api.daily.dev/devcards/v2/89aQO8yHVflyZC8v0R3d1.png?type=wide&r=eiz" width="652" alt="Sudarshan's Dev Card"/></a>
 
-
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=realsudarshan&layout=compact&theme=tokyonight" />
 
 
 
