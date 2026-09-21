@@ -137,7 +137,9 @@ I treat AI agents like any other production system: they need structure, limits 
 
 <p align="left">
   <a href="https://www.anthropic.com" target="_blank"><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude" width="40" height="40" /></a>
-  <a href="https://openai.com" target="_blank"><img src="https://cdn.simpleicons.org/openai/8b949e" alt="OpenAI" width="40" height="40" /></a>
+   <a href="https://openai.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" alt="OpenAI" width="40" height="40"/>
+  </a>
   <a href="https://deepmind.google/models/gemini/" target="_blank"><img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini" width="40" height="40" /></a>
   <a href="https://github.com/deepseek-ai" target="_blank"><img src="https://cdn.simpleicons.org/deepseek/4D6BFE" alt="DeepSeek" width="40" height="40" /></a>
   <a href="https://github.com/QwenLM" target="_blank"><img src="https://cdn.simpleicons.org/qwen/615CED" alt="Qwen" width="40" height="40" /></a>
