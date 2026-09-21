@@ -73,6 +73,7 @@ I treat AI agents like any other production system: they need structure, limits 
 4. **Test the flow before overbuilding**: let real usage decide what deserves more polish
 5. **Keep experimenting**: side projects and prototypes are how I level up
 5. **Share resources**: Blogs,notes,skill.md files directly from my portfolio
+
 > I like software that feels crafted: the small details that turn a tool that works into one that's a pleasure to use.
 
 ---
@@ -100,51 +101,25 @@ I treat AI agents like any other production system: they need structure, limits 
 **Languages**
 
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,c,py,rust,go,solidity&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,c,py,rust,go,solidity&theme=light" />
-    <img src="https://skillicons.dev/icons?i=ts,c,py,rust,go,solidity&theme=dark" alt="Languages" height="48" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=ts,c,py,rust,go,solidity" alt="Languages" height="48" />
 </p>
 
 **Web, Mobile and Data**
 
 <p align="left">
-  <!-- Core Web, Backend & Data Icons -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,tailwind,laravel,express,django,fastapi,prisma,mongodb,postgres,redis,sqlite&theme=dark&perline=15" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,tailwind,laravel,express,django,fastapi,prisma,mongodb,postgres,redis,sqlite&theme=light&perline=15" />
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,laravel,express,django,fastapi,prisma,mongodb,postgres,redis,sqlite&theme=dark&perline=15" alt="Web, Mobile and Data" height="48" />
-  </picture>
-  
-  <!-- Ecosystem & Platform Icons (SimpleIcons) -->
-  <a href="https://orm.drizzle.team" target="_blank">
-    <img src="https://cdn.simpleicons.org/drizzle" alt="Drizzle" width="48" height="48" />
-  </a>
-  <a href="https://expo.dev" target="_blank">
-    <img src="https://cdn.simpleicons.org/expo" alt="Expo" width="48" height="48" />
-  </a>
-  <a href="https://heroui.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/heroui" alt="HeroUI" width="48" height="48" />
-  </a>
-  <a href="https://tanstack.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/tanstack" alt="TanStack" width="48" height="48" />
-  </a>
-  <a href="https://www.revenuecat.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/revenuecat" alt="RevenueCat" width="48" height="48" />
-  </a>
-  <a href="https://stripe.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/stripe" alt="Stripe" width="48" height="48" />
-  </a>
-  <a href="https://convex.dev" target="_blank">
-    <img src="https://cdn.simpleicons.org/convex" alt="Convex" width="48" height="48" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,laravel,express,django,fastapi,prisma,mongodb,postgres,redis,sqlite&perline=15" alt="Web, Mobile and Data" height="48" />
+  <a href="https://orm.drizzle.team" target="_blank"><img src="https://cdn.simpleicons.org/drizzle" alt="Drizzle" width="48" height="48" /></a>
+  <a href="https://expo.dev" target="_blank"><img src="https://cdn.simpleicons.org/expo/8b949e" alt="Expo" width="48" height="48" /></a>
+  <a href="https://heroui.com" target="_blank"><img src="https://cdn.simpleicons.org/heroui/8b949e" alt="HeroUI" width="48" height="48" /></a>
+  <a href="https://tanstack.com" target="_blank"><img src="https://cdn.simpleicons.org/tanstack" alt="TanStack" width="48" height="48" /></a>
+  <a href="https://www.revenuecat.com" target="_blank"><img src="https://cdn.simpleicons.org/revenuecat" alt="RevenueCat" width="48" height="48" /></a>
+  <a href="https://stripe.com" target="_blank"><img src="https://cdn.simpleicons.org/stripe" alt="Stripe" width="48" height="48" /></a>
+  <a href="https://convex.dev" target="_blank"><img src="https://cdn.simpleicons.org/convex" alt="Convex" width="48" height="48" /></a>
 </p>
 
 **AI Engineering & Production Infrastructure**
 
 <p align="left">
-  <!-- Core Agent Frameworks & Memory -->
   <a href="https://ai-sdk.dev" target="_blank"><img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" /></a>
   <a href="https://www.langchain.com" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=14B8A6" alt="LangChain" /></a>
   <a href="https://www.llamaindex.ai" target="_blank"><img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge" alt="LlamaIndex" /></a>
@@ -152,7 +127,6 @@ I treat AI agents like any other production system: they need structure, limits 
 </p>
 
 <p align="left">
-  <!-- Infra, Vectors, Observability & Guardrails -->
   <a href="https://ollama.com" target="_blank"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" /></a>
   <a href="https://qdrant.tech" target="_blank"><img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" /></a>
   <a href="https://langfuse.com" target="_blank"><img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge" alt="Langfuse" /></a>
@@ -161,41 +135,21 @@ I treat AI agents like any other production system: they need structure, limits 
 
 **Models and AI platforms**
 
-
 <p align="left">
-  <a href="https://www.anthropic.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude" width="40" height="40"/>
-  </a>
-  <a href="https://openai.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" alt="OpenAI" width="40" height="40"/>
-  </a>
-  <a href="https://deepmind.google/models/gemini/" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/deepseek-ai" target="_blank">
-    <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" alt="DeepSeek" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/QwenLM" target="_blank">
-    <img src="https://cdn.simpleicons.org/qwen/615CED" alt="Qwen" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/THUDM/GLM-4" target="_blank">
-    <img src="https://cdn.simpleicons.org/zdotai/0052CC" alt="GLM" width="40" height="40"/>
-  </a>
-  <a href="https://ollama.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/ollama/8b949e" alt="Ollama" width="40" height="40"/>
-  </a>
-  <a href="https://huggingface.co" target="_blank">
-    <img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" width="40" height="40"/>
-  </a>
-  <a href="https://opencode.ai" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/opencode.svg" alt="OpenCode" width="40" height="40"/>
-  </a>
+  <a href="https://www.anthropic.com" target="_blank"><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude" width="40" height="40" /></a>
+  <a href="https://openai.com" target="_blank"><img src="https://cdn.simpleicons.org/openai/8b949e" alt="OpenAI" width="40" height="40" /></a>
+  <a href="https://deepmind.google/models/gemini/" target="_blank"><img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini" width="40" height="40" /></a>
+  <a href="https://github.com/deepseek-ai" target="_blank"><img src="https://cdn.simpleicons.org/deepseek/4D6BFE" alt="DeepSeek" width="40" height="40" /></a>
+  <a href="https://github.com/QwenLM" target="_blank"><img src="https://cdn.simpleicons.org/qwen/615CED" alt="Qwen" width="40" height="40" /></a>
+  <a href="https://github.com/THUDM/GLM-4" target="_blank"><img src="https://cdn.simpleicons.org/zdotai/0052CC" alt="GLM" width="40" height="40" /></a>
+  <a href="https://ollama.com" target="_blank"><img src="https://cdn.simpleicons.org/ollama/8b949e" alt="Ollama" width="40" height="40" /></a>
+  <a href="https://huggingface.co" target="_blank"><img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" width="40" height="40" /></a>
+  <a href="https://opencode.ai" target="_blank"><img src="https://img.shields.io/badge/OpenCode-6B7280?style=for-the-badge" alt="OpenCode" /></a>
 </p>
 
 **DevOps, Cloud & Observability**
 
 <p align="left">
-  <!-- Infrastructure, Containers & CI/CD -->
   <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
   <a href="https://kubernetes.io" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
   <a href="https://cloud.google.com" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" /></a>
@@ -205,7 +159,6 @@ I treat AI agents like any other production system: they need structure, limits 
 </p>
 
 <p align="left">
-  <!-- Observability, Metrics & Analytics -->
   <a href="https://grafana.com" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></a>
   <a href="https://prometheus.io" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /></a>
   <a href="https://posthog.com" target="_blank"><img src="https://img.shields.io/badge/PostHog-F54E00?style=for-the-badge&logo=posthog&logoColor=white" alt="PostHog" /></a>
