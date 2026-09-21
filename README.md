@@ -1,8 +1,9 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Sudarshan Dhakal! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<div>
+<img align='right' src="avatar.webp" width="230">
 
-<img align='right' src="avatar1.gif" width="230">
+</div>
 
-<p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/realsudarsan)
 [![Linkedin: Sudarshan](https://img.shields.io/badge/-sudarshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudarsan-dhakal-5b4522284)](https://www.linkedin.com/in/sudarsan-dhakal-5b4522284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
