@@ -24,7 +24,7 @@ I care about software that is **useful, fast, and a little memorable**: clean ar
 
 
 #### 🚀 Building right now
-
+- 🌆 **Realestate-gear**: open-source, self-hostable real estate operating platform powered by Next.js, Express, and PostgreSQL. It combines an AI-driven agent CRM and transaction workspace with a custom-branded public portal for listing discovery and inquiry management.
 - 💬 **EasyChat Support**: an AI-powered customer support platform for businesses in Nepal, built as production-grade software
 - 🌿 **Ojas**: a second production-grade product, currently in active development
 - 🗂️ **Everything else**: case studies and other projects live in my portfolio at [sudarshandhakal.com.np](https://sudarshandhakal.com.np)
